@@ -1,0 +1,402 @@
+SubjectsEnglishMathsPythonDsa
+Subjects: EnglishMathsPythonDsa
+Subjects: dEnglishMathsPythonDsa
+Name: Anurag AdarshName: Name: Name: Anurag AdarshName: Anurag AdarshnannannanName: Anurag AdarshName: Anurag Adarsh nan nan nan 
+Roll no: 13000219122 nan nan nan 
+CA1: 22 25 20 14 
+Roll no: 13000219122 nan nan nan 
+Roll no: 13000219122 nan nan nan 
+CA1: 22 25 20 14 
+Name: Anurag Adarsh nan nan nan 
+           0              1      2       3    4
+0       Name  Anurag Adarsh    NaN     NaN  NaN
+1    Roll no    13000219122    NaN     NaN  NaN
+2    Section              B    NaN     NaN  NaN
+3     Gender           Male    NaN     NaN  NaN
+4        NaN            NaN    NaN     NaN  NaN
+5        NaN            NaN    NaN     NaN  NaN
+6   Subjects        English  Maths  Python  Dsa
+7        CA1             22     25      20   14
+8        CA2             23     25      20   14
+9        CA3             21     12      17   24
+10       CA4             19     16      19   22
+11      PCA1             35     32      22   27
+12      PCA2             21     25      24   34           0              1      2       3    4
+0       Name  Anurag Adarsh    NaN     NaN  NaN
+1    Roll no    13000219122    NaN     NaN  NaN
+2    Section              B    NaN     NaN  NaN
+3     Gender           Male    NaN     NaN  NaN
+4        NaN            NaN    NaN     NaN  NaN
+5        NaN            NaN    NaN     NaN  NaN
+6   Subjects        English  Maths  Python  Dsa
+7        CA1             22     25      20   14
+8        CA2             23     25      20   14
+9        CA3             21     12      17   24
+10       CA4             19     16      19   22
+11      PCA1             35     32      22   27
+12      PCA2             21     25      24   34                0                         1          2         3
+0  Patient's Name            Pratyush Chand        NaN       NaN
+1             Age                        43        NaN       NaN
+2        Phone No                9123436477        NaN       NaN
+3         Address  2a parkstreet,kolkata-54        NaN       NaN
+4           Email  pratyush.chand@gmail.com        NaN       NaN
+5             NaN                       NaN        NaN       NaN
+6       Medicines               Paracetamol     Clavam  Trobicin
+7            Time                   morning  afternoon     night
+8           Price                        55         90       105
+9           Doses                         2          1         2
+                0                         1          2         3
+0  Patient's Name            Pratyush Chand        NaN       NaN
+1             Age                        43        NaN       NaN
+2        Phone No                9123436477        NaN       NaN
+3         Address  2a parkstreet,kolkata-54        NaN       NaN
+4           Email  pratyush.chand@gmail.com        NaN       NaN
+5             NaN                       NaN        NaN       NaN
+6       Medicines               Paracetamol     Clavam  Trobicin
+7            Time                   morning  afternoon     night
+8           Price                        55         90       105
+9           Doses                         2          1         2
+                0                         1          2         3
+0  Patient's Name            Pratyush Chand        NaN       NaN
+1             Age                        43        NaN       NaN
+2        Phone No                9123436477        NaN       NaN
+3         Address  2a parkstreet,kolkata-54        NaN       NaN
+4           Email  pratyush.chand@gmail.com        NaN       NaN
+5             NaN                       NaN        NaN       NaN
+6       Medicines               Paracetamol     Clavam  Trobicin
+7            Time                   morning  afternoon     night
+8           Price                        55         90       105
+9           Doses                         2          1         2
+           0              1      2       3    4
+0       Name  Anurag Adarsh    NaN     NaN  NaN
+1    Roll no    13000219122    NaN     NaN  NaN
+2    Section              B    NaN     NaN  NaN
+3     Gender           Male    NaN     NaN  NaN
+4        NaN            NaN    NaN     NaN  NaN
+5        NaN            NaN    NaN     NaN  NaN
+6   Subjects        English  Maths  Python  Dsa
+7        CA1             22     25      20   14
+8        CA2             23     25      20   14
+9        CA3             21     12      17   24
+10       CA4             19     16      19   22
+11      PCA1             35     32      22   27
+12      PCA2             21     25      24   34
+Reading data from Sheet1
+           0              1      2       3    4
+0       Name  Anurag Adarsh    NaN     NaN  NaN
+1    Roll no    13000219122    NaN     NaN  NaN
+2    Section              B    NaN     NaN  NaN
+3     Gender           Male    NaN     NaN  NaN
+4        NaN            NaN    NaN     NaN  NaN
+5        NaN            NaN    NaN     NaN  NaN
+6   Subjects        English  Maths  Python  Dsa
+7        CA1             22     25      20   14
+8        CA2             23     25      20   14
+9        CA3             21     12      17   24
+10       CA4             19     16      19   22
+11      PCA1             35     32      22   27
+12      PCA2             21     25      24   34
+Reading data from all the sheets
+******************* Sheet1*******************            0              1      2       3    4
+0       Name  Anurag Adarsh    NaN     NaN  NaN
+1    Roll no    13000219122    NaN     NaN  NaN
+2    Section              B    NaN     NaN  NaN
+3     Gender           Male    NaN     NaN  NaN
+4        NaN            NaN    NaN     NaN  NaN
+5        NaN            NaN    NaN     NaN  NaN
+6   Subjects        English  Maths  Python  Dsa
+7        CA1             22     25      20   14
+8        CA2             23     25      20   14
+9        CA3             21     12      17   24
+10       CA4             19     16      19   22
+11      PCA1             35     32      22   27
+12      PCA2             21     25      24   34
+Reading data from Sheet1
+           0              1      2       3    4
+0       Name  Anurag Adarsh    NaN     NaN  NaN
+1    Roll no    13000219122    NaN     NaN  NaN
+2    Section              B    NaN     NaN  NaN
+3     Gender           Male    NaN     NaN  NaN
+4        NaN            NaN    NaN     NaN  NaN
+5        NaN            NaN    NaN     NaN  NaN
+6   Subjects        English  Maths  Python  Dsa
+7        CA1             22     25      20   14
+8        CA2             23     25      20   14
+9        CA3             21     12      17   24
+10       CA4             19     16      19   22
+11      PCA1             35     32      22   27
+12      PCA2             21     25      24   34
+Reading data from all the sheets
+******************* Sheet1*******************            0              1      2       3    4
+0       Name  Anurag Adarsh    NaN     NaN  NaN
+1    Roll no    13000219122    NaN     NaN  NaN
+2    Section              B    NaN     NaN  NaN
+3     Gender           Male    NaN     NaN  NaN
+4        NaN            NaN    NaN     NaN  NaN
+5        NaN            NaN    NaN     NaN  NaN
+6   Subjects        English  Maths  Python  Dsa
+7        CA1             22     25      20   14
+8        CA2             23     25      20   14
+9        CA3             21     12      17   24
+10       CA4             19     16      19   22
+11      PCA1             35     32      22   27
+12      PCA2             21     25      24   34
+******************* Sheet2*******************                 0                         1          2         3
+0  Patient's Name            Pratyush Chand        NaN       NaN
+1             Age                        43        NaN       NaN
+2        Phone No                9123436477        NaN       NaN
+3         Address  2a parkstreet,kolkata-54        NaN       NaN
+4           Email  pratyush.chand@gmail.com        NaN       NaN
+5             NaN                       NaN        NaN       NaN
+6       Medicines               Paracetamol     Clavam  Trobicin
+7            Time                   morning  afternoon     night
+8           Price                        55         90       105
+9           Doses                         2          1         2
+Reading data from Sheet1
+           0              1      2       3    4
+0       Name  Anurag Adarsh    NaN     NaN  NaN
+1    Roll no    13000219122    NaN     NaN  NaN
+2    Section              B    NaN     NaN  NaN
+3     Gender           Male    NaN     NaN  NaN
+4        NaN            NaN    NaN     NaN  NaN
+5        NaN            NaN    NaN     NaN  NaN
+6   Subjects        English  Maths  Python  Dsa
+7        CA1             22     25      20   14
+8        CA2             23     25      20   14
+9        CA3             21     12      17   24
+10       CA4             19     16      19   22
+11      PCA1             35     32      22   27
+12      PCA2             21     25      24   34
+Reading data from Sheet1
+           0              1      2       3    4
+0       Name  Anurag Adarsh    NaN     NaN  NaN
+1    Roll no    13000219122    NaN     NaN  NaN
+2    Section              B    NaN     NaN  NaN
+3     Gender           Male    NaN     NaN  NaN
+4        NaN            NaN    NaN     NaN  NaN
+5        NaN            NaN    NaN     NaN  NaN
+6   Subjects        English  Maths  Python  Dsa
+7        CA1             22     25      20   14
+8        CA2             23     25      20   14
+9        CA3             21     12      17   24
+10       CA4             19     16      19   22
+11      PCA1             35     32      22   27
+12      PCA2             21     25      24   34
+Reading data from all the sheets
+
+******************* Sheet1******************* 
+           0              1      2       3    4
+0       Name  Anurag Adarsh    NaN     NaN  NaN
+1    Roll no    13000219122    NaN     NaN  NaN
+2    Section              B    NaN     NaN  NaN
+3     Gender           Male    NaN     NaN  NaN
+4        NaN            NaN    NaN     NaN  NaN
+5        NaN            NaN    NaN     NaN  NaN
+6   Subjects        English  Maths  Python  Dsa
+7        CA1             22     25      20   14
+8        CA2             23     25      20   14
+9        CA3             21     12      17   24
+10       CA4             19     16      19   22
+11      PCA1             35     32      22   27
+12      PCA2             21     25      24   34
+******************* Sheet2******************* 
+                0                         1          2         3
+0  Patient's Name            Pratyush Chand        NaN       NaN
+1             Age                        43        NaN       NaN
+2        Phone No                9123436477        NaN       NaN
+3         Address  2a parkstreet,kolkata-54        NaN       NaN
+4           Email  pratyush.chand@gmail.com        NaN       NaN
+5             NaN                       NaN        NaN       NaN
+6       Medicines               Paracetamol     Clavam  Trobicin
+7            Time                   morning  afternoon     night
+8           Price                        55         90       105
+9           Doses                         2          1         2
+Name of the user: Sejal
+Sheet names are Sheet1 , Sheet2 , Reading data from Sheet1
+           0              1      2       3    4
+0       Name  Anurag Adarsh    NaN     NaN  NaN
+1    Roll no    13000219122    NaN     NaN  NaN
+2    Section              B    NaN     NaN  NaN
+3     Gender           Male    NaN     NaN  NaN
+4        NaN            NaN    NaN     NaN  NaN
+5        NaN            NaN    NaN     NaN  NaN
+6   Subjects        English  Maths  Python  Dsa
+7        CA1             22     25      20   14
+8        CA2             23     25      20   14
+9        CA3             21     12      17   24
+10       CA4             19     16      19   22
+11      PCA1             35     32      22   27
+12      PCA2             21     25      24   34
+Reading data from all the sheets
+
+******************* Sheet1******************* 
+           0              1      2       3    4
+0       Name  Anurag Adarsh    NaN     NaN  NaN
+1    Roll no    13000219122    NaN     NaN  NaN
+2    Section              B    NaN     NaN  NaN
+3     Gender           Male    NaN     NaN  NaN
+4        NaN            NaN    NaN     NaN  NaN
+5        NaN            NaN    NaN     NaN  NaN
+6   Subjects        English  Maths  Python  Dsa
+7        CA1             22     25      20   14
+8        CA2             23     25      20   14
+9        CA3             21     12      17   24
+10       CA4             19     16      19   22
+11      PCA1             35     32      22   27
+12      PCA2             21     25      24   34
+******************* Sheet2******************* 
+                0                         1          2         3
+0  Patient's Name            Pratyush Chand        NaN       NaN
+1             Age                        43        NaN       NaN
+2        Phone No                9123436477        NaN       NaN
+3         Address  2a parkstreet,kolkata-54        NaN       NaN
+4           Email  pratyush.chand@gmail.com        NaN       NaN
+5             NaN                       NaN        NaN       NaN
+6       Medicines               Paracetamol     Clavam  Trobicin
+7            Time                   morning  afternoon     night
+8           Price                        55         90       105
+9           Doses                         2          1         2
+PCA2: 21 25 24 34 
+Email: pratyush.chand@gmail.com nan nan 
+Reading data from all the sheets
+
+******************* Sheet1******************* 
+           0              1      2       3    4
+0       Name  Anurag Adarsh    NaN     NaN  NaN
+1    Roll no    13000219122    NaN     NaN  NaN
+2    Section              B    NaN     NaN  NaN
+3     Gender           Male    NaN     NaN  NaN
+4        NaN            NaN    NaN     NaN  NaN
+5        NaN            NaN    NaN     NaN  NaN
+6   Subjects        English  Maths  Python  Dsa
+7        CA1             22     25      20   14
+8        CA2             23     25      20   14
+9        CA3             21     12      17   24
+10       CA4             19     16      19   22
+11      PCA1             35     32      22   27
+12      PCA2             21     25      24   34
+******************* Sheet2******************* 
+                0                         1          2         3
+0  Patient's Name            Pratyush Chand        NaN       NaN
+1             Age                        43        NaN       NaN
+2        Phone No                9123436477        NaN       NaN
+3         Address  2a parkstreet,kolkata-54        NaN       NaN
+4           Email  pratyush.chand@gmail.com        NaN       NaN
+5             NaN                       NaN        NaN       NaN
+6       Medicines               Paracetamol     Clavam  Trobicin
+7            Time                   morning  afternoon     night
+8           Price                        55         90       105
+9           Doses                         2          1         2
+Name of the user: saloni
+Sheet names are Sheet1 Sheet2 Name of the user: saloni
+Sheet names are Sheet1 Sheet2 
+Reading data from Sheet2
+                0                         1          2         3
+0  Patient's Name            Pratyush Chand        NaN       NaN
+1             Age                        43        NaN       NaN
+2        Phone No                9123436477        NaN       NaN
+3         Address  2a parkstreet,kolkata-54        NaN       NaN
+4           Email  pratyush.chand@gmail.com        NaN       NaN
+5             NaN                       NaN        NaN       NaN
+6       Medicines               Paracetamol     Clavam  Trobicin
+7            Time                   morning  afternoon     night
+8           Price                        55         90       105
+9           Doses                         2          1         2
+Reading data from all the sheets
+
+******************* Sheet1******************* 
+           0              1      2       3    4
+0       Name  Anurag Adarsh    NaN     NaN  NaN
+1    Roll no    13000219122    NaN     NaN  NaN
+2    Section              B    NaN     NaN  NaN
+3     Gender           Male    NaN     NaN  NaN
+4        NaN            NaN    NaN     NaN  NaN
+5        NaN            NaN    NaN     NaN  NaN
+6   Subjects        English  Maths  Python  Dsa
+7        CA1             22     25      20   14
+8        CA2             23     25      20   14
+9        CA3             21     12      17   24
+10       CA4             19     16      19   22
+11      PCA1             35     32      22   27
+12      PCA2             21     25      24   34
+******************* Sheet2******************* 
+                0                         1          2         3
+0  Patient's Name            Pratyush Chand        NaN       NaN
+1             Age                        43        NaN       NaN
+2        Phone No                9123436477        NaN       NaN
+3         Address  2a parkstreet,kolkata-54        NaN       NaN
+4           Email  pratyush.chand@gmail.com        NaN       NaN
+5             NaN                       NaN        NaN       NaN
+6       Medicines               Paracetamol     Clavam  Trobicin
+7            Time                   morning  afternoon     night
+8           Price                        55         90       105
+9           Doses                         2          1         2
+Age: 43 nan nan 
+Phone No: 9123436477 nan nan 
+Name of the user: sejal
+Reading data from Sheet2
+                0                         1          2         3
+0  Patient's Name            Pratyush Chand        NaN       NaN
+1             Age                        43        NaN       NaN
+2        Phone No                9123436477        NaN       NaN
+3         Address  2a parkstreet,kolkata-54        NaN       NaN
+4           Email  pratyush.chand@gmail.com        NaN       NaN
+5             NaN                       NaN        NaN       NaN
+6       Medicines               Paracetamol     Clavam  Trobicin
+7            Time                   morning  afternoon     night
+8           Price                        55         90       105
+9           Doses                         2          1         2
+Doses: 2 1 2 
+Name of the user: 55
+Doses: 2 1 2 
+Name: Anurag Adarsh nan nan nan 
+Name of the user: -1
+Name: Anurag Adarsh nan nan nan 
+Name of the user: vishal
+Sheet names are Sheet1 Sheet2 
+Reading data from Sheet1
+           0              1      2       3    4
+0       Name  Anurag Adarsh    NaN     NaN  NaN
+1    Roll no    13000219122    NaN     NaN  NaN
+2    Section              B    NaN     NaN  NaN
+3     Gender           Male    NaN     NaN  NaN
+4        NaN            NaN    NaN     NaN  NaN
+5        NaN            NaN    NaN     NaN  NaN
+6   Subjects        English  Maths  Python  Dsa
+7        CA1             22     25      20   14
+8        CA2             23     25      20   14
+9        CA3             21     12      17   24
+10       CA4             19     16      19   22
+11      PCA1             35     32      22   27
+12      PCA2             21     25      24   34
+Reading data from all the sheets
+
+******************* Sheet1******************* 
+           0              1      2       3    4
+0       Name  Anurag Adarsh    NaN     NaN  NaN
+1    Roll no    13000219122    NaN     NaN  NaN
+2    Section              B    NaN     NaN  NaN
+3     Gender           Male    NaN     NaN  NaN
+4        NaN            NaN    NaN     NaN  NaN
+5        NaN            NaN    NaN     NaN  NaN
+6   Subjects        English  Maths  Python  Dsa
+7        CA1             22     25      20   14
+8        CA2             23     25      20   14
+9        CA3             21     12      17   24
+10       CA4             19     16      19   22
+11      PCA1             35     32      22   27
+12      PCA2             21     25      24   34
+******************* Sheet2******************* 
+                0                         1          2         3
+0  Patient's Name            Pratyush Chand        NaN       NaN
+1             Age                        43        NaN       NaN
+2        Phone No                9123436477        NaN       NaN
+3         Address  2a parkstreet,kolkata-54        NaN       NaN
+4           Email  pratyush.chand@gmail.com        NaN       NaN
+5             NaN                       NaN        NaN       NaN
+6       Medicines               Paracetamol     Clavam  Trobicin
+7            Time                   morning  afternoon     night
+8           Price                        55         90       105
+9           Doses                         2          1         2
+Subjects: English Maths Python Dsa 
+Medicines: Paracetamol Clavam Trobicin 
