@@ -1,1 +1,1 @@
-# Extracting information from an excel file using field value concept pasting it into a txt file
+# Extracting information from an excel file using field value concept and  copying it into a txt file
